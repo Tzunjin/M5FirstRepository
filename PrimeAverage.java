@@ -6,7 +6,7 @@ public class PrimeAverage {
 	private ArrayList<Integer> inputArray1;
 	private ArrayList<Integer> inputArray2;
 
-	//Comentario para github
+	//Comentario para github desde github
 
 	
 	PrimeAverage(ArrayList<Integer> myArray1, ArrayList<Integer> myArray2) {
