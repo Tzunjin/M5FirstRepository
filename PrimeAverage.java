@@ -20,6 +20,8 @@ public class PrimeAverage {
 			avg1 += anInputArray1;
 		}
 
+		//Comentario para github en local
+
 		avg1 = avg1 / inputArray1.size();
 		avg1 = Math.round(avg1);
 
